@@ -1,6 +1,6 @@
-Anazlyzer.java
- Anazlyzer
 myReader.java
  myReader
+Anazlyzer.java
+ Anazlyzer
 NumericalReaderAnalysis.java
  NumericalReaderAnalysis
